@@ -6,3 +6,4 @@ def countdown(number)
   sleep(5.seconds)
   number -=1
 end
+end
