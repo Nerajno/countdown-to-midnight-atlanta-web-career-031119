@@ -1,4 +1,6 @@
 #write your code here
 
-def countdown
+def countdown(number)
+  
+  number -=1
 end
